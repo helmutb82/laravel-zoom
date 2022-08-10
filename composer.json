@@ -1,5 +1,5 @@
 {
-    "name": "macsidigital/laravel-zoom",
+    "name": "helmutb82/laravel-zoom",
     "description": "Laravel Zoom package Fork from macsidigital/laravel-zoom",
     "homepage": "https://github.com/helmutb82/laravel-zoom",
     "keywords": ["macsidigital", "laravel-zoom", "zoom", "laravel", "api", "client"],
