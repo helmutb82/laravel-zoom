@@ -1,15 +1,15 @@
 {
     "name": "macsidigital/laravel-zoom",
-    "description": "Laravel Zoom package",
-    "homepage": "https://github.com/MacsiDigital/laravel-zoom",
+    "description": "Laravel Zoom package Fork from macsidigital/laravel-zoom",
+    "homepage": "https://github.com/helmutb82/laravel-zoom",
     "keywords": ["macsidigital", "laravel-zoom", "zoom", "laravel", "api", "client"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Colin Hall",
-            "email": "colin@macsi.co.uk",
-            "role": "Developer"
+            "name": "Helmut Burchardt",
+            "email": "helmutb@gmail.com",
+            "role": "Software Engineer"
         }
     ],
     "require": {
